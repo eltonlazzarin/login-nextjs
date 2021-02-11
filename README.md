@@ -1,3 +1,7 @@
+<h1 align="center">
+	<img alt="Logo" src="https://github.com/eltonlazzarin/login-nextjs/blob/main/screenshots/login.svg" height="67px" width="71px" />
+</h1>
+
 <h3 align="center">
   Simple login page built with Next.js
 </h3>

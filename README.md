@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
 	<img alt="Logo" src="https://github.com/eltonlazzarin/login-nextjs/blob/main/screenshots/login.svg" height="67px" width="71px" />
 </h1>
 
